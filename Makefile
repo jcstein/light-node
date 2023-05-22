@@ -1,4 +1,9 @@
 .PHONY: light
 
 light:
-	bash celestia.sh
+	bash init.sh
+
+.PHONY: start
+
+start:
+	bash start.sh

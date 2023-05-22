@@ -11,5 +11,8 @@ and run this command from the home directory of the workspace (which should
 be `/workspace/light-node`):
 
 ```bash
-bash celestia.sh
+make light
 ```
+
+Your keys and data will be stored in the
+`celestia-pwd/.celestia-light-blockspace-0` directory ✨
