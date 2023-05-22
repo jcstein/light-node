@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # start docker
 dockerd
 
