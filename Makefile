@@ -1,3 +1,5 @@
+SHELL := /bin/bash
+
 .PHONY: light start
 
 light:
