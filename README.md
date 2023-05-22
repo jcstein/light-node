@@ -23,6 +23,11 @@ Your keys and data will be stored in the
 
 ## Starting your node
 
+Now, we'll start our node using the keys we just created above. If you're
+curious about what's going on, check out the [`init.sh`](init.sh)
+and [`start.sh`](start.sh) scripts, which are called from the
+[`Makefile`](Makefile).
+
 From the project's working directory, run this to start your node:
 
 ```bash
