@@ -1,8 +1,8 @@
 SHELL := /bin/bash
 
-.PHONY: light start
+.PHONY: init start
 
-light:
+init:
 	bash init.sh
 
 start:
