@@ -1,9 +1,7 @@
-.PHONY: light
+.PHONY: light start
 
 light:
 	bash init.sh
-
-.PHONY: start
 
 start:
 	bash start.sh
