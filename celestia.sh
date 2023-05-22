@@ -2,7 +2,7 @@
 dockerd
 
 # make PWD for keys and data
-cd $HOME
+cd $GITPOD_REPO_ROOT
 mkdir celestia-pwd
 
 # set permissions
