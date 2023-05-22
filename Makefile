@@ -7,6 +7,3 @@ init:
 
 start:
 	bash start.sh
-
-systemd:
-	bash systemd.sh
