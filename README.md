@@ -19,7 +19,7 @@ make init
 ```
 
 Your keys and data will be stored in the
-`celestia-pwd/.celestia-light-blockspace-0` directory ✨
+`celestia-pwd/.celestia-light-arabica-9` directory ✨
 
 ## Starting your node
 

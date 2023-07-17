@@ -11,4 +11,4 @@ mkdir celestia-pwd
 sudo chown 10001:10001 ./celestia-pwd
 
 # create keys
-docker run -e NODE_TYPE=light -e P2P_NETWORK=blockspacerace -v ./celestia-pwd:/home/celestia ghcr.io/celestiaorg/celestia-node:v0.9.5 celestia light init --p2p.network blockspacerace
+docker run -e NODE_TYPE=light -e P2P_NETWORK=arabica -v ./celestia-pwd:/home/celestia ghcr.io/celestiaorg/celestia-node:v0.11.0-rc8 celestia light init --p2p.network arabica
